@@ -1,0 +1,7 @@
+﻿
+Program requirements:
+
+CopyUnique should be a console application that takes as parameters two folder paths: source and destination.
+The application should copy all unique files from the source folder into the destination folder, where a
+unique file is defined as one whose contents are not identical to the contents of any other file in the folder.
+(File names do not matter and are not used to determine uniqueness.)
